@@ -67,7 +67,7 @@ En un entorno empresarial altamente competitivo, **la eficiencia en la asignaci�
 
 ### Visualizaciones destacadas
 1. **Costo de adquisicion de cada una de las fuentes:** Se pudo observar que la fuente id 3, es en la que mas se ha gastado en marketing y la fuente id 4 a comparación de la 3, tiene menos gastos en marketing, mas visitantes y mas personas convertidas a clientes.
-![Tabla costos por fuente y cohorte](https://github.com/monik719/Portafolio/blob/main/assets/costos%20marketing%20fuentes.png).
+![Tabla costos por fuente y cohorte](https://github.com/monik719/port/blob/main/assets/prueba.png).
 
 2. **ROMI de la fuente 5:** En las primeras 5 cohortes se ve reflejado el retorno de la inversion, en cada una de ella. Pero enfocandonos en la cuarta esta genero hasta cuatro veces mas ganancia en varios meses de vida. pero en las demas cohortes no se reflejado la rcuperacion de la inversión.
    ![ROMI fuente 5](https://github.com/monik719/Portafolio/blob/main/assets/fuente5.png)
