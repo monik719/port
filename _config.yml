@@ -1,5 +1,5 @@
 title: Monica Vargas
-logo: assets/foto.jpeg
+logo: assets/fotoo.jpeg
 description: ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos.
 show_downloads: false
 #google_analytics:
@@ -7,4 +7,4 @@ theme: jekyll-theme-minimal
 include:
   - assets
   - README.md
-baseurl: "https://github.com/monik719/Portafolio/blob/main"
+baseurl: "https://github.com/monik719/port/blob/main"
